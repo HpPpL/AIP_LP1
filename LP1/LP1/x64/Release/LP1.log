@@ -1,0 +1,20 @@
+﻿  Experiments.cpp
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(66,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(74,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(82,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(95,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(103,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(111,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(124,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(132,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(140,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(153,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(161,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\ender\Desktop\LP1\LP1\LP1\Experiments.cpp(169,12): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  main.cpp
+  Создание кода
+  25 of 1478 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  LP1.vcxproj -> C:\Users\ender\Desktop\LP1\LP1\x64\Release\LP1.exe
